@@ -29,18 +29,17 @@ it will show like this:
 ######
 > It should only contains
 > alphabets and space
-> Moreover alphabets can
 ######
+> Moreover alphabets can
 > be lowercase or
 > upper case
 #
 ![formalities](https://github.com/suffisme/NameWriter/blob/master/Screenshots/second_screen.png)
 
-### Note: Output will be in uppercase only
-
-##### Enter the correct font size and pen thickness
-
-##### Maximise the screen to see the output
+### Note: 
+- ***Output will be in uppercase only***
+- ***Enter the correct font size and pen thickness***
+- ***Maximise the screen to see the output***
 
 ![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/ouput_1.png)
 #
