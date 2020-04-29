@@ -23,7 +23,7 @@ $ python3 main_file.py
 - **Do not change the imported methods and functions**
 
 it will show like this:
-![main screenshot](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
+![](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
 
 ### Enter the valid String
 
@@ -43,12 +43,12 @@ it will show like this:
 - ***Enter the correct font size and pen thickness***
 - ***Maximise the screen to see the output***
 
-![Output](Screenshots/ouput_1.png)
+![](Screenshots/ouput_1.png)
 #
-![Output](Screenshots/output_2.png)
+![](Screenshots/output_2.png)
 #
-![Output](Screenshots/output_3.png)
+![](Screenshots/output_3.png)
 #
-![Output](Screenshots/output_4.png)
+![](Screenshots/output_4.png)
 #
-![Output](Screenshots/output_5.png)
+![](Screenshots/output_5.png)
