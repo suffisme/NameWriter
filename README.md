@@ -3,19 +3,19 @@
 
 Using turtle library, this app draws the letters using bunch of codes written python language
 just download both these files 
-	- [***main.py***]()
-  	- [***support.py***]()
+	* [***main_file.py***](https://github.com/suffisme/NameWriter/blob/master/main_file.py)
+  	* [***support.py***](https://github.com/suffisme/NameWriter/blob/master/support.py)
 
 and run this command in the same directory from cmd or terminal
 
 ```
-python main.py
+python main_file.py
 ```
 
 or 
 
 ```sh
-python3 main.py
+python3 main_file.py
 ```
 
 it will show like this:
@@ -32,7 +32,11 @@ Enter the valid String
 
 ![font-size](link)
 
-Enter the correct font size and pen thickness
+### Note: Output will be in uppercase only
 
-Maximise the screen to see the output
- 
+##### Enter the correct font size and pen thickness
+
+##### Maximise the screen to see the output
+
+![Output]()
+!(Output)()
