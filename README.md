@@ -22,9 +22,10 @@ $ python3 main_file.py
 - **Do Not Change the name of support.py file**
 - **Do not change the imported methods and functions**
 
-it will show like this:
-![](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
-
+### Download The App
+- If you dont have python or app that runs these above files
+- Download the executable file from [Here](https://github.com/suffisme/NameApp)
+- Inside the parent folder, run `Name_Writer.exe` file
 ### Enter the valid String
 
 > Rule For Valid String:
@@ -36,7 +37,10 @@ it will show like this:
 > be lowercase or
 > upper case
 
-# Enter These Requirements
+# It will show like this:
+![](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
+
+## Enter These Requirements
 ![](Screenshots/second_screen.png)
 
 ### Note: 
