@@ -19,7 +19,7 @@ python3 main_file.py
 ```
 
 it will show like this:
-![main screenshot](\\link)
+![main screenshot](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
 
 Enter the valid String
 
@@ -35,7 +35,7 @@ Enter the valid String
 ######
 > upper case
 
-![font-size](link)
+![formalities](https://github.com/suffisme/NameWriter/blob/master/Screenshots/second_screen.png)
 
 ### Note: Output will be in uppercase only
 
@@ -43,7 +43,12 @@ Enter the valid String
 
 ##### Maximise the screen to see the output
 
-![Output]()
-![Output]()
-![Output]()
-![Output]()
+![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/ouput_1.png)
+#
+![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_2.png)
+#
+![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_3.png)
+#
+![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_4.png)
+#
+![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_5.png)
