@@ -23,12 +23,12 @@ it will show like this:
 
 Enter the valid String
 
-| Rule For Valid String
-| It should only contains
-| alphabets and space
-| Moreover alphabets can
-| be lowercase or
-| upper case
+> Rule For Valid String
+> It should only contains
+> alphabets and space
+> Moreover alphabets can
+> be lowercase or
+> upper case
 
 ![font-size](link)
 
