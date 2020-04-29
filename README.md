@@ -1,8 +1,7 @@
 # Name Writer
 ### By Sufiyan Ansari
 
-###### Using turtle library, this app draws the letters using bunch of codes written python language
-###### Just download both these files 
+Using turtle library, this app draws the letters using bunch of codes written python language. Just download both these files 
 - [***main_file.py***](https://github.com/suffisme/NameWriter/blob/master/main_file.py)
 - [***support.py***](https://github.com/suffisme/NameWriter/blob/master/support.py)
 
