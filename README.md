@@ -7,9 +7,6 @@ just download both these files
 - [***support.py***](https://github.com/suffisme/NameWriter/blob/master/support.py)
 
 and run this command in the same directory from cmd or terminal
-### Caution:
-- **Do Not Change the name of support.py file**
-- **Do not change the imported methods and functions**
 
 ```
 $ python main_file.py
@@ -20,6 +17,10 @@ or
 ```sh
 $ python3 main_file.py
 ```
+
+### Caution:
+- **Do Not Change the name of support.py file**
+- **Do not change the imported methods and functions**
 
 it will show like this:
 ![main screenshot](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
