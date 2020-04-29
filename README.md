@@ -36,19 +36,19 @@ it will show like this:
 > be lowercase or
 > upper case
 #
-![formalities](https://github.com/suffisme/NameWriter/blob/master/Screenshots/second_screen.png)
+![formalities](Screenshots/second_screen.png)
 
 ### Note: 
 - ***Output will be in uppercase only***
 - ***Enter the correct font size and pen thickness***
 - ***Maximise the screen to see the output***
 
-![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/ouput_1.png)
+![Output](Screenshots/ouput_1.png)
 #
-![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_2.png)
+![Output](Screenshots/output_2.png)
 #
-![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_3.png)
+![Output](Screenshots/output_3.png)
 #
-![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_4.png)
+![Output](Screenshots/output_4.png)
 #
-![Output](https://github.com/suffisme/NameWriter/blob/master/Screenshots/output_5.png)
+![Output](Screenshots/output_5.png)
