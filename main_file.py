@@ -16,10 +16,13 @@ while(val!=1):
 ff=int(input("Enter Font Size:\n 1 for 120\n 2 for 60\n 3 for 40\n"))
 while(ff not in range(1,4)):
 	ff=int(input("\nPlease Choose Correct Options.\nEnter Font Size:\n 1 for 120\n 2 for 60\n 3 for 40\n"))
+	
 pensize_var=int(input("Input pen thickness (2-6):"))
 while(pensize_var not in range(2,7)):
 	pensize_var=int(input("\nPlease Enter Between 2 and 6\nInput pen thickness (2-6):"))
+	
 print('Maximise The New Window')
+
 name(pensize_var,ff)
 l=0
 for i in range(len(str_py)):
