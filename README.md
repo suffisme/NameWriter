@@ -7,34 +7,33 @@ just download both these files
 - [***support.py***](https://github.com/suffisme/NameWriter/blob/master/support.py)
 
 and run this command in the same directory from cmd or terminal
+### Caution
+##### Do Not Change the name of support.py file
 
 ```
-python main_file.py
+$ python main_file.py
 ```
 
 or 
 
 ```sh
-python3 main_file.py
+$ python3 main_file.py
 ```
 
 it will show like this:
 ![main screenshot](https://github.com/suffisme/NameWriter/blob/master/Screenshots/main.png)
 
-Enter the valid String
+### Enter the valid String
 
 > Rule For Valid String:
 ######
 > It should only contains
-######
 > alphabets and space
-######
 > Moreover alphabets can
 ######
 > be lowercase or
-######
 > upper case
-
+#
 ![formalities](https://github.com/suffisme/NameWriter/blob/master/Screenshots/second_screen.png)
 
 ### Note: Output will be in uppercase only
