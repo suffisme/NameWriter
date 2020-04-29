@@ -28,15 +28,16 @@ it will show like this:
 ### Enter the valid String
 
 > Rule For Valid String:
-######
+
 > It should only contains
-> alphabets and space
-######
+> alphabets and space.
+
 > Moreover alphabets can
 > be lowercase or
 > upper case
-#
-![formalities](Screenshots/second_screen.png)
+
+# Enter These Requirements
+![](Screenshots/second_screen.png)
 
 ### Note: 
 - ***Output will be in uppercase only***
